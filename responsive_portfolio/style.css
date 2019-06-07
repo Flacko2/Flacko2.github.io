@@ -11,7 +11,7 @@ nav{
     min-height: 8vh;
     background-color: rgb(105, 49, 209);
     font-family: sans-serif;
-    border-bottom: 2px gray block;
+    /* border-bottom: 2px gray block; */
 }
 
 .title-name{
@@ -23,6 +23,7 @@ nav{
     font-weight: 500;
     text-align: center;
     padding: 20px 20px;
+    z-index: 99;
 }
 
 .nav-links{
